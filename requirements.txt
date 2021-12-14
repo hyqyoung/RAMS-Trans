@@ -1,0 +1,8 @@
+graphviz==0.12
+numpy==1.17.0
+torch==1.2.0
+torchvision==0.2.1
+tensorboardX==1.9
+torchvision==0.4.0
+json==2.0.9
+nvidia.dali==0.15.0
